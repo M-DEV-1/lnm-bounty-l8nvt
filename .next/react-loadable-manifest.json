@@ -1,0 +1,14 @@
+{
+  "node_modules/@onflow/fcl-wc/dist/index.module.mjs -> @walletconnect/modal": {
+    "id": 9099,
+    "files": [
+      "static/chunks/99.e64baee00a3b501c.js"
+    ]
+  },
+  "node_modules/@walletconnect/modal/dist/index.js -> @walletconnect/modal-ui": {
+    "id": 8584,
+    "files": [
+      "static/chunks/584.5d1b5ed1258b8f64.js"
+    ]
+  }
+}
