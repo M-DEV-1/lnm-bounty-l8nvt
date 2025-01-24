@@ -1,4 +1,4 @@
-// File: /home/mdev1/Desktop/Code/chronocept/chronocept-annotation-tool-admin-panel/devdockDir/bounty-l8nvt/app/page.tsx
+// File: /home/mdev1/Desktop/Code/hackathons/devdockDir/bounty-l8nvt/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
